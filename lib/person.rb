@@ -18,7 +18,7 @@ end
  
  beyonce = Person.new
  beyonce.name = "Beyonce"
- puts beyonce.name
+beyonce
  
  beyonce = Person.new
  beyonce.job = "Singer"
