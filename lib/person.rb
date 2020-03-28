@@ -7,7 +7,7 @@ end
    @name 
  end
  
- def job = (job)
+ def job = ("Siger")
    @job = job
  end
  
